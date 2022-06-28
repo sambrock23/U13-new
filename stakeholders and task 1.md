@@ -41,7 +41,6 @@ Yes I have achieved the stackholders requirement as
 * The Webpage works easily on all platforms such as PC,Ipad and Mobile Phones.
 
 
-
 ## finalised
 
 I had positive feedback from other students in the class which they thought the colour scheme was nice however in the next version of the website I will change the carousel so that the arrows work on the carousel aswell as the nav bar at the bottom of it. Also, I will change the images as they are a low quality, and I will look at the different window size so it will open to half the window and full window, and I will look at getting the paragraphs less stretched. But what I’m not going to do is add link into the sites (e.g: what we sell and the phone table) because I thought the table went well with the colour scheme and it give the information well in a table than using a link to a website. 
